@@ -1,0 +1,38 @@
+* {
+    background-color: hsl(120, 100%, 20%);
+    color: white;
+}
+
+img {
+    height: auto;
+    width: 100%;
+}
+
+h1,
+h2,
+.subtitle {
+    font-family: 'Brush Script MT', cursive;
+    text-align: center;
+}
+
+h1 {
+    font-size: 52px;
+}
+
+h2 {
+    font-size: 32px;
+}
+
+.subtitle {
+    font-size: 24px;
+}
+
+a {
+    color: hsl(0, 100%, 60%);
+}
+
+p,
+ul, 
+ol {
+    font-family: 'Trebuchet MS', sans-serif;
+}
